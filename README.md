@@ -7,6 +7,3 @@ CampusGPT is a serverless AI assistant built using Google Cloud, Vertex AI Gemin
 - Gemini 2.0 Flash model
 - Python + Streamlit
 - Docker
-
-## 🚀 Live Demo
-👉 [https://campusgpt-231806492402.us-central1.run.app/](#)
